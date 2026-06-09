@@ -4,7 +4,7 @@ class VolumeOfEarth {
     }
 
     public static void main(String[] args) {
-        double radius = 6378;  // In Kilometers
+        double radius = 6378;
 
         double volumeInCubicKilo = volume(radius);
         double volumeInCubicMiles = volumeInCubicKilo * 1.6;

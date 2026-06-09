@@ -7,6 +7,6 @@ class SamAverageMarks {
         double obtainedMarks = maths + physics + chemistry;
         double avg = obtainedMarks / 3;
 
-        System.out.println("Sam's average marks in PCM is " + avg);
+        System.out.println("sam's avg marks in PCM is " + avg);
     }
 }

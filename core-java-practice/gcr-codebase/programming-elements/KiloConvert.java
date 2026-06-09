@@ -1,7 +1,3 @@
-// Program to convert distance in Kilometers to distance in miles
-// Miles = Kilometer * 0.621371
-// 1 mile = 1.6 km
-
 import java.util.Scanner;
 
 class KiloConvert {

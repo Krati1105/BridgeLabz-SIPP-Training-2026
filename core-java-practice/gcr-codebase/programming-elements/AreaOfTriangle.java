@@ -11,7 +11,7 @@ class AreaOfTriangle {
 
         double areaInches = 0.5 * base * height;
 
-        double areaCm = areaInches * 6.4516;    // 1 inch = 2.54 cm => 1 sq inch = 6.4516 sq cm
+        double areaCm = areaInches * 6.4516; 
 
         System.out.println("Area of triangle with base " + base + " and height " + height + " is " + areaInches + " sq. inches and " + areaCm + " sq. cm");
 
